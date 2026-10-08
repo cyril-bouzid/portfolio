@@ -44,7 +44,7 @@ Trois agents IA métier, conçus et opérationnels :
 | 🚨 Radar de détection d'entreprises à risque | Qualification en amont, éviter les affaires toxiques |
 | 🤝 Coach de négociation | Préparation de rendez-vous et traitements d'objections |
 
-➡️ Détail et code : [github.com/cyrille-bouzid/portfolio](https://github.com/cyrille-bouzid/portfolio)
+➡️ Détail et code : [github.com/cyril-bouzid/portfolio](https://github.com/cyril-bouzid/portfolio)
 
 ## Expériences professionnelles
 
