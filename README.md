@@ -46,9 +46,9 @@ Trois agents IA métier, conçus et opérationnels :
 
 ## 📐 Architecture IA
 
-Pour aller plus loin : comment les trois couches IA (Gems / Copilot / Mistral) s'articulent de l'annonce au closing → 
+Pour aller plus loin : comment les trois couches IA (Gems / Copilot / Mistral) s'articulent de l'annonce au closing → l'architecture complète
 
-➡️ Détail et code : [github.com/cyril-bouzid/portfolio](https://github.com/cyril-bouzid/portfolio)
+➡️ Détail et code : github.com/cyril-bouzid/portfolio
 
 ## Expériences professionnelles
 
