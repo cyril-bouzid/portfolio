@@ -12,7 +12,7 @@
 
 ## À propos
 
-Fort de 25 ans de négociation B2B dans l'industrie et le bâtiment et d'une culture d'atelier (BEP Ajusteur / BTS Technico-Commercial – Génie Mécanique & Électrique), j'associe le discernement du terrain à la puissance de l'IA générative (certifié RS6776) pour cibler avec précision les zones industrielles et artisanales des Hauts-de-France, réduire les cycles de vente et développer durablement le portefeuille d'affaires.
+Fort de 25 ans de négociation B2B dans l'industrie et le bâtiment et d'une culture d'atelier (BEP Mécanicien Monteur / BTS Technico-Commercial – Génie Mécanique & Électrique), j'associe le discernement du terrain à la puissance de l'IA générative (certifié RS6776) pour cibler avec précision les zones industrielles et artisanales des Hauts-de-France, réduire les cycles de vente et développer durablement le portefeuille d'affaires.
 
 Je maîtrise le langage des ateliers et le vocabulaire du chantier pour concevoir des offres techniques sur mesure et défendre la rentabilité de chaque affaire, de la prescription au closing.
 
@@ -43,6 +43,10 @@ Trois agents IA métier, conçus et opérationnels :
 | 🔍 Scanner d'offres avec scoring | Priorisation automatique des opportunités |
 | 🚨 Radar de détection d'entreprises à risque | Qualification en amont, éviter les affaires toxiques |
 | 🤝 Coach de négociation | Préparation de rendez-vous et traitements d'objections |
+
+## 📐 Architecture IA
+
+Pour aller plus loin : comment les trois couches IA (Gems / Copilot / Mistral) s'articulent de l'annonce au closing → 
 
 ➡️ Détail et code : [github.com/cyril-bouzid/portfolio](https://github.com/cyril-bouzid/portfolio)
 
